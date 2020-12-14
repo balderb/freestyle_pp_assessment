@@ -9,7 +9,7 @@ HTML / Cascading Style Sheets
 ## Author
 Balder Bongaerts
 ## Products
-Link to netlify deployment:
+Link to netlify deployment: https://freestyle-assessment-balder-intracto.netlify.app/
 
 ## Shout out
 My coaches @ Becode - Manuele Serfatti / Bert Heyman <br>

@@ -14,8 +14,7 @@ body {
 }
 
 h1 {
-    color: Black;
-    font-size: 60px;;
+    color: white;
 }
 
 h2 {
@@ -63,13 +62,11 @@ h4 {
     justify-content: center;
     align-items: center;
     grid-area: h;
-    background-image: url("../img/Ghent\ 2021-8.png");
+    background-image: url("../img/Ghent\ 2021-3.png");
+    background-color: #cccccc;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    color: white;
-    height: 120px;
-
 }
 
 .main-nav {

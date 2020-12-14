@@ -1,4 +1,4 @@
-# freestyle assessment for Intracto Ghent
+# Freestyle assessment for Intracto Ghent
 ## Motivation
 This is a project for an assessment @ Intracto Ghent. In this project, I try to build on top of a previous 
 pixel perfect assessment and used some of my creative design skills. I paid attention to readability of the code, 
